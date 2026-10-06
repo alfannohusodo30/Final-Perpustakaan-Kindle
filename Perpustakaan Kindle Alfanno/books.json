@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "judul": "Laskar Pelangi",
+        "penulis": "Andrea Hirata",
+        "tahun": "2005",
+        "stok": 5
+    },
+    {
+        "id": 2,
+        "judul": "Bumi",
+        "penulis": "Tere Liye",
+        "tahun": "2014",
+        "stok": 4
+    },
+    {
+        "id": 3,
+        "judul": "Atomic Habits",
+        "penulis": "James Clear",
+        "tahun": "2018",
+        "stok": 3
+    },
+    {
+        "id": 4,
+        "judul": "Harry Potter",
+        "penulis": "J.K. Rowling",
+        "tahun": "1997",
+        "stok": 4
+    },
+    {
+        "id": 5,
+        "judul": "Akademi Crypto",
+        "penulis": "Timothy Ronald",
+        "tahun": "2024",
+        "stok": 2
+    }
+]
